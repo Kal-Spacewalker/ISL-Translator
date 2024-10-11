@@ -1,6 +1,6 @@
-# gesture_talk
+# Gesture Talk
 
-A new Flutter project.
+An Indian Sign Language Translation App
 
 ## Getting Started
 
