@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030759546907",
+    "project_id": "gesture-talk-ab15e",
+    "storage_bucket": "gesture-talk-ab15e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030759546907:android:806e33a10a3a73297078be",
+        "android_client_info": {
+          "package_name": "com.example.islt.gesture_talk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK8qHjgaL7jYQvhtur2q6A8Bk0puZO-H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
